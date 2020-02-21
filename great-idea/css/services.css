@@ -63,7 +63,11 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Copy and paste your work from yesterday here and start to refactor into flexbox */
+
+
+
+
+
 
 
 header{
@@ -71,104 +75,9 @@ header{
 	justify-content: space-evenly;
 }
 
-header nav a{
-	color: gray;
-	font-size: 10px;
-	text-align: left;
-	margin: 20px 0px 20px 0px;
-	padding: 30px;
-}
-
-
-
-
 
 
 .intro{
-	display:flex;
-	justify-content: space-around;
-
-}
-.intro .intro-a {
-	text-align:center;
-}
-
-.intro .intro-a h2{
-	text-size-adjust:100px;
-}
-.intro {
-	text-align: center;
-	margin:20px 0px 20px 0px;
-  }
-  .intro section{
-  
-	width:42%;
-	height:400px;
-	  
-  } 
-
-
-
-
-.info1{
-	display: flex;
-	justify-content: space-around;
- 
-}
-
-.info1 {
-	text-align:center;
-	margin: 20px 0px 20px 0px;
-	
-	}
-	
-	.info1 section{
-		text-align: left;
-		width:36%;
-	}
-.Img-info{
-
-	display:flex;
-	justify-content: space-around;
-}
-
-
-
-
-.info2{
-	display: flex;
-	justify-content: space-around;
-	
-}
-.info2 section{
-	
-	text-align: left;
-	width:20%;
-}
-.info2 {
-	
-	text-align:center;
-	margin: 20px 0px 20px 0px;
-  }
-
-  footer{
-
-	text-align: left;
-	width:85%;
-	margin-left: 6%;
-}
-.copyright{
-	display: flex;
-	justify-content: center;
-}
-
-
-
-
-
-
-
-.intro2 {
 	display:flex;
 	justify-content: center;
 
